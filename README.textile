@@ -7,7 +7,7 @@ h2. Usage
 <pre>
 mysql> \. /path/to/mysql-function-levenshtein.sql
 
-mysql> select levenshtein('LEONARDO', 'LEONARDO');
+mysql> select levenshtein('LEONARDO', 'LEONARDU');
 +-------------------------------------+
 | levenshtein('LEONARDO', 'LEONARDU') |
 +-------------------------------------+
